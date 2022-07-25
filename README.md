@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leah Tajon
-- 👀 I’m interested in web development and computer programming.
+- 👀 I’m interested in web development, graphic design, and computer programming.
 - 🌱 I’m currently learning Python language, CSS, HTML, and Javascript.
 - 📫 You can reach me at: leahtajon@gmail.com
 
